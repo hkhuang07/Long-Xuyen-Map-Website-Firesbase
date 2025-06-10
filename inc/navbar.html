@@ -1,0 +1,65 @@
+<script>
+	function getCookie(cname) {
+		let name = cname + '=';
+		let decodedCookie = decodeURIComponent(document.cookie);
+		let ca = decodedCookie.split(';');
+		for(let i = 0; i <ca.length; i++) {
+			let c = ca[i];
+			while (c.charAt(0) == ' ') {
+				c = c.substring(1);
+			}
+			if (c.indexOf(name) == 0) {
+				return c.substring(name.length, c.length);
+			}
+		}
+		return '';
+	}
+	
+	let guestLink = '<li class="nav-item">\
+						<a class="nav-link" href="dangky.html"><i class="bi bi-person-add"></i> Đăng ký</a>\
+					 </li>\
+					 <li class="nav-item">\
+						<a class="nav-link" href="dangnhap.html"><i class="bi bi-box-arrow-in-right"></i> Đăng nhập</a>\
+					 </li>';
+	let adminLink = '<li class="nav-item dropdown">\
+						<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">\
+							<i class="bi bi-gear"></i> Quản lý\
+						</a>\
+						<ul class="dropdown-menu">\
+							<li><a class="dropdown-item" href="loaidiadiem.html"><i class="bi bi-tags"></i> Loại địa điểm</a></li>\
+							<li><a class="dropdown-item" href="diadiem.html"><i class="bi bi-geo"></i> Địa điểm</a></li>\
+							<li><hr class="dropdown-divider"></li>\
+							<li><a class="dropdown-item" href="taikhoan.html"><i class="bi bi-people"></i> Tài khoản đăng nhập</a></li>\
+						</ul>\
+					 </li>\
+					 <li class="nav-item">\
+						<a class="nav-link" href="dangxuat.html"><i class="bi bi-box-arrow-right"></i> Đăng xuất (' + getCookie('email') + ')</a>\
+					 </li>';
+</script>
+
+<nav class="navbar navbar-expand-lg bg-warning">
+	<div class="container-fluid">
+		<a class="navbar-brand" href="index.html"><i class="bi bi-geo-alt"></i> Long Xuyen Map</a>
+		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarSupportedContent">
+			<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+				<li id="auth-menu" class="nav-item">
+					<a class="nav-link active" href="bando.html"><i class="bi bi-map"></i> Bản đồ</a>
+				</li>
+				<script>
+					if(getCookie('uid') != '') {
+						$(adminLink).insertAfter('#auth-menu');
+					} else {
+						$(guestLink).insertAfter('#auth-menu');
+					}
+				</script>
+			</ul>
+			<form class="d-flex" role="search">
+				<input class="form-control me-2" type="search" placeholder="Tìm kiếm địa điểm" aria-label="Search" />
+				<button class="btn btn-outline-success" type="submit"><i class="bi bi-search"></i></button>
+			</form>
+		</div>
+	</div>
+</nav>

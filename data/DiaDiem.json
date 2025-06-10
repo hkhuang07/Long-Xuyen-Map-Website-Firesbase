@@ -1,0 +1,1906 @@
+[
+  {
+    "MaDiaDiem": 1,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Hồng Hạnh",
+    "ViDo": 10.4087483,
+    "KinhDo": 105.4186348,
+    "DiaChi": "1516/76, Quốc Lộ 91, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 2,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Ngọc Linh",
+    "ViDo": 10.4087835,
+    "KinhDo": 105.4189195,
+    "DiaChi": "1503/76, Quốc Lộ 91, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 3,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ - Quán ăn Lê Vy",
+    "ViDo": 10.3753327,
+    "KinhDo": 105.4352573,
+    "DiaChi": "513, Võ Thị Sáu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 4,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Thanh Phương",
+    "ViDo": 10.400375,
+    "KinhDo": 105.420561,
+    "DiaChi": "Lô 87 - 88, Phan Bội Châu, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 5,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Khách sạn Gió Sông",
+    "ViDo": 10.3939701,
+    "KinhDo": 105.4287012,
+    "DiaChi": "472/24, Quản Cơ Thành, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 6,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ 999 Lưu Luyến",
+    "ViDo": 10.412825,
+    "KinhDo": 105.4153472,
+    "DiaChi": "613A/46, Quốc Lộ 91, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 7,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà nghỉ Vy Linh",
+    "ViDo": 10.400357,
+    "KinhDo": 105.420541,
+    "DiaChi": "204A/11, Phan Bội Châu, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 8,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Anh Tuấn",
+    "ViDo": 10.3771966,
+    "KinhDo": 105.4302566,
+    "DiaChi": "118, Hà Hoàng Hổ, Phường Đông Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 9,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Duy Phương",
+    "ViDo": 10.400806,
+    "KinhDo": 105.421642,
+    "DiaChi": "40/7, Phan Bội Châu (Hẻm), Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 10,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Chính Nhung",
+    "ViDo": 10.3752516,
+    "KinhDo": 105.435565,
+    "DiaChi": "494, Võ Thị Sáu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 11,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Sơn Ca",
+    "ViDo": 10.3943575,
+    "KinhDo": 105.4300268,
+    "DiaChi": "500B/25, Quản Cơ Thành, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 12,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Kim Ngân",
+    "ViDo": 10.3987952,
+    "KinhDo": 105.4244037,
+    "DiaChi": "153E/8, Trần Hưng Đạo, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 13,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Trần Phú Quốc",
+    "ViDo": 10.3771024,
+    "KinhDo": 105.4307063,
+    "DiaChi": "797F, Hà Hoàng Hổ, Phường Đông Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 14,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Như Bình",
+    "ViDo": 10.402517,
+    "KinhDo": 105.423321,
+    "DiaChi": "94/8, Phan Bội Châu (Hẻm), Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 15,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Thái Hòa",
+    "ViDo": 10.4198075,
+    "KinhDo": 105.4097866,
+    "DiaChi": "314C/19, Quốc Lộ 91, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 16,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Hai Công",
+    "ViDo": 10.3946725,
+    "KinhDo": 105.4300732,
+    "DiaChi": "486A/25, Quản Cơ Thành, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 17,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Cô Thạch",
+    "ViDo": 10.3758987,
+    "KinhDo": 105.4347126,
+    "DiaChi": "523, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 18,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Thái Sơn 2",
+    "ViDo": 10.4216003,
+    "KinhDo": 105.4080713,
+    "DiaChi": "271/15, Quốc Lộ 91, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 19,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Minh Nhật",
+    "ViDo": 10.3761319,
+    "KinhDo": 105.4346494,
+    "DiaChi": "Lô 90, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 20,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Hai Hoa",
+    "ViDo": 10.3941141,
+    "KinhDo": 105.4306262,
+    "DiaChi": "486/25, Quản Cơ Thành, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 21,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Quang Huy",
+    "ViDo": 10.3761966,
+    "KinhDo": 105.4346525,
+    "DiaChi": "32 - 33, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 22,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Hồng Nga",
+    "ViDo": 10.3768698,
+    "KinhDo": 105.4298517,
+    "DiaChi": "593/15D, Hà Hoàng Hổ, Phường Đông Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 23,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Thuỳ Trang",
+    "ViDo": 10.3941029,
+    "KinhDo": 105.429587,
+    "DiaChi": "487C/25, Quản Cơ Thành, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 24,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Sinh Viên",
+    "ViDo": 10.3751434,
+    "KinhDo": 105.4340569,
+    "DiaChi": "521D, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 25,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Bùi Khắc Vũ",
+    "ViDo": 10.3458655,
+    "KinhDo": 105.4684778,
+    "DiaChi": "30/13, Phường Mỹ Thới, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 26,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Nguyễn An",
+    "ViDo": 10.4086209,
+    "KinhDo": 105.4190614,
+    "DiaChi": "1505A/76, Quốc Lộ 91, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 27,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Hồ Hải",
+    "ViDo": 10.3752098,
+    "KinhDo": 105.4339045,
+    "DiaChi": "515B, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 28,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Phương Thanh",
+    "ViDo": 10.3473388,
+    "KinhDo": 105.4677305,
+    "DiaChi": "10/9, Phường Mỹ Thới, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 29,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ nữ sinh",
+    "ViDo": 10.3744059,
+    "KinhDo": 105.4336538,
+    "DiaChi": "Lô 2, Số 6, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 30,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Hoàng Long",
+    "ViDo": 10.3767412,
+    "KinhDo": 105.4286497,
+    "DiaChi": "552/14B, Trần Nguyên Đán, Phường Đông Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 31,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ 460H",
+    "ViDo": 10.3763083,
+    "KinhDo": 105.43741,
+    "DiaChi": "Võ Thị Sáu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 32,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Ngọc Minh",
+    "ViDo": 10.3740386,
+    "KinhDo": 105.4334496,
+    "DiaChi": "11 - Lô 3, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 33,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Ba Đoàn",
+    "ViDo": 10.3746929,
+    "KinhDo": 105.4337108,
+    "DiaChi": "516, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 34,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Nguyễn Kim Hiếu",
+    "ViDo": 10.3448344,
+    "KinhDo": 105.4666486,
+    "DiaChi": "46/4, Phường Mỹ Thới, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 35,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Không tên",
+    "ViDo": 10.3766433,
+    "KinhDo": 105.4355883,
+    "DiaChi": "466C, Võ Thị Sáu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 36,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Trâm Đô",
+    "ViDo": 10.3762309,
+    "KinhDo": 105.4333407,
+    "DiaChi": "714/1, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 37,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Như Ngọc",
+    "ViDo": 10.3761909,
+    "KinhDo": 105.4332104,
+    "DiaChi": "711/7, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 38,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Thiên Cát",
+    "ViDo": 10.3774816,
+    "KinhDo": 105.4263083,
+    "DiaChi": "Rạch Ông Mạnh, Phường Đông Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 39,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Anh Tuyên",
+    "ViDo": 10.3441843,
+    "KinhDo": 105.4677418,
+    "DiaChi": "Phường Mỹ Thới, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 40,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Ngọc Diệp 1",
+    "ViDo": 10.3771833,
+    "KinhDo": 105.4378783,
+    "DiaChi": "Võ Thị Sáu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 41,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Nhất Phương",
+    "ViDo": 10.3785225,
+    "KinhDo": 105.4256869,
+    "DiaChi": "Hà Hoàng Hổ, Phường Mỹ Hòa, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 42,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Thùy Dương",
+    "ViDo": 10.346109,
+    "KinhDo": 105.467759,
+    "DiaChi": "29/6B, Phường Mỹ Thới, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 43,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Xuân Mai",
+    "ViDo": 10.3773716,
+    "KinhDo": 105.4383133,
+    "DiaChi": "318, Hẻm 9, Trần Hưng Đạo, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 44,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Thành Đạt",
+    "ViDo": 10.3420285,
+    "KinhDo": 105.4706812,
+    "DiaChi": "Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 45,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Không tên",
+    "ViDo": 10.374735,
+    "KinhDo": 105.4327066,
+    "DiaChi": "5B, Võ Thị Sáu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 46,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Hoàng Phúc",
+    "ViDo": 10.3885983,
+    "KinhDo": 105.4337883,
+    "DiaChi": "2/2, Lý Thường Kiệt, Phường Mỹ Bình, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 47,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Sao Khuê",
+    "ViDo": 10.3418802,
+    "KinhDo": 105.471077,
+    "DiaChi": "Quốc Lộ 91, Phường Mỹ Thới, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 48,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Khách sạn Thành Được",
+    "ViDo": 10.3432892,
+    "KinhDo": 105.4698943,
+    "DiaChi": "Quốc Lộ 91, Phường Mỹ Thới, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 49,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Minh Nguyệt",
+    "ViDo": 10.3788822,
+    "KinhDo": 105.4294244,
+    "DiaChi": "623/16, Kênh 2, Phường Đông Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 50,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Chị Thúy",
+    "ViDo": 10.3461697,
+    "KinhDo": 105.4622682,
+    "DiaChi": "52/34, Khóm Trung An, Phường Mỹ Thới, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 51,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Nguyễn Ngọc",
+    "ViDo": 10.3796754,
+    "KinhDo": 105.4296661,
+    "DiaChi": "625/16A, Trần Quý Khoáng, Phường Đông Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 52,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Yến Nhi",
+    "ViDo": 10.3803167,
+    "KinhDo": 105.4292846,
+    "DiaChi": "648P/16, Bùi Văn Danh, Phường Đông Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 53,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà nghỉ Hoàng Lan",
+    "ViDo": 10.3785155,
+    "KinhDo": 105.4292032,
+    "DiaChi": "Trần Quý Khoáng, Phường Đông Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 54,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Hướng Dương",
+    "ViDo": 10.3489582,
+    "KinhDo": 105.4630001,
+    "DiaChi": "Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 55,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Ánh Vũ",
+    "ViDo": 10.378725,
+    "KinhDo": 105.4300633,
+    "DiaChi": "Hùng Vương, Phường Đông Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 56,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Đăng Khoa",
+    "ViDo": 10.378865,
+    "KinhDo": 105.4298616,
+    "DiaChi": "Trần Khắc Chân, Phường Đông Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 57,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Hải Vân",
+    "ViDo": 10.3452408,
+    "KinhDo": 105.4643466,
+    "DiaChi": "42A/26, Khóm Trung Hưng, Phường Mỹ Thới, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 58,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Kim Bằng",
+    "ViDo": 10.3452475,
+    "KinhDo": 105.4643152,
+    "DiaChi": "42A, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 59,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Đăng Khoa",
+    "ViDo": 10.37834,
+    "KinhDo": 105.4304866,
+    "DiaChi": "653/17D, Hà Hoàng Hổ, Phường Đông Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 60,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Phi Hùng",
+    "ViDo": 10.3782488,
+    "KinhDo": 105.4305375,
+    "DiaChi": "653/17, Hà Hoàng Hổ (Hẻm), Phường Đông Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 61,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ sinh viên Minh Tùng",
+    "ViDo": 10.3745734,
+    "KinhDo": 105.4391082,
+    "DiaChi": "120, Hải Thượng Lãn Ông, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 62,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Minh Nhựt",
+    "ViDo": 10.3748632,
+    "KinhDo": 105.4396718,
+    "DiaChi": "116, Hải Thượng Lãn Ông, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 63,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Hoa Lan",
+    "ViDo": 10.3855244,
+    "KinhDo": 105.4345885,
+    "DiaChi": "Hẻm 1, Nguyễn Thái Học, Phường Mỹ Bình, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 64,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Anh Kiệt",
+    "ViDo": 10.3815719,
+    "KinhDo": 105.4353613,
+    "DiaChi": "42, Lê Văn Nhung, Phường Mỹ Bình, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 65,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Cô Sở",
+    "ViDo": 10.385238,
+    "KinhDo": 105.4345107,
+    "DiaChi": "141/2/7, Nguyễn Thái Học, Phường Mỹ Bình, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 66,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà nghỉ Ngọc Giang",
+    "ViDo": 10.3852249,
+    "KinhDo": 105.4330555,
+    "DiaChi": "157/1, Nguyễn Thái Học, Phường Mỹ Bình, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 67,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Không tên",
+    "ViDo": 10.384948,
+    "KinhDo": 105.4318159,
+    "DiaChi": "35/5D, Lê Văn Nhung, Phường Mỹ Bình, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 68,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ 172",
+    "ViDo": 10.384724,
+    "KinhDo": 105.4328646,
+    "DiaChi": "172/5, Nguyễn Thái Học, Phường Mỹ Bình, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 69,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Vườn Cau",
+    "ViDo": 10.3787951,
+    "KinhDo": 105.4351361,
+    "DiaChi": "205/4, Trần Quang Diệu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 70,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Vân",
+    "ViDo": 10.3785125,
+    "KinhDo": 105.4354609,
+    "DiaChi": "205/3, Hà Hoàng Hổ, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 71,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Bảo Lê",
+    "ViDo": 10.3788457,
+    "KinhDo": 105.4360022,
+    "DiaChi": "149/36, Trần Quang Diệu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 72,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Tâm Mai",
+    "ViDo": 10.3774281,
+    "KinhDo": 105.4362006,
+    "DiaChi": "Số 3, Trần Bình Trọng, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 73,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Thành Tâm",
+    "ViDo": 10.3762681,
+    "KinhDo": 105.4373949,
+    "DiaChi": "460E, Võ Thị Sáu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 74,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Lê Sơn Nam",
+    "ViDo": 10.3729511,
+    "KinhDo": 105.4361121,
+    "DiaChi": "185/7A, Khóm Đông Thịnh 8, Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 75,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Nguyễn Thị Loan",
+    "ViDo": 10.3731666,
+    "KinhDo": 105.4350799,
+    "DiaChi": "511A, Võ Thị Sáu, Phường Đông Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 76,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Cô Bình",
+    "ViDo": 10.3755493,
+    "KinhDo": 105.4375447,
+    "DiaChi": "556, Võ Thị Sáu, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 77,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Hoàng Mai",
+    "ViDo": 10.3745566,
+    "KinhDo": 105.4364483,
+    "DiaChi": "260E, Hẻm 7, Trần Hưng Đạo, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 78,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Việt Phát",
+    "ViDo": 10.3975703,
+    "KinhDo": 105.4137997,
+    "DiaChi": "65 - 66, Số 5, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 79,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Ngọc Diễm",
+    "ViDo": 10.3759883,
+    "KinhDo": 105.438585,
+    "DiaChi": "227, Hẻm 7, Trần Hưng Đạo, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 80,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Thủy Tiên",
+    "ViDo": 10.3721409,
+    "KinhDo": 105.4353472,
+    "DiaChi": "Ung Văn Khiêm, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 81,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Kim Ánh",
+    "ViDo": 10.3763439,
+    "KinhDo": 105.438251,
+    "DiaChi": "261P, Hẻm 8, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 82,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Song Mai",
+    "ViDo": 10.3726131,
+    "KinhDo": 105.4357701,
+    "DiaChi": "181/7, Võ Thị Sáu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 83,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Vũ Khánh Bình",
+    "ViDo": 10.3731466,
+    "KinhDo": 105.4365866,
+    "DiaChi": "181/3, Võ Thị Sáu - Rạch Cái Sơn, Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 84,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ 272",
+    "ViDo": 10.3763016,
+    "KinhDo": 105.43888,
+    "DiaChi": "272, Hẻm 8, Trần Hưng Đạo, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 85,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Châu Sa",
+    "ViDo": 10.397542,
+    "KinhDo": 105.4130389,
+    "DiaChi": "Lô 11 - 12, Số 5, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 86,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Vũ Hoàng Hà",
+    "ViDo": 10.3732133,
+    "KinhDo": 105.4366016,
+    "DiaChi": "165/2, Võ Thị Sáu - Rạch Cái Sơn, Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 87,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Kim Khánh",
+    "ViDo": 10.3772483,
+    "KinhDo": 105.439415,
+    "DiaChi": "264, Hẻm, Trần Hưng Đạo, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 88,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Miễn phí",
+    "ViDo": 10.3768733,
+    "KinhDo": 105.4389166,
+    "DiaChi": "262A, Hẻm 8, Trần Hưng Đạo, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 89,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Vy Vy",
+    "ViDo": 10.3764907,
+    "KinhDo": 105.4395536,
+    "DiaChi": "Trần Hưng Đạo, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 90,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Gia Lộc",
+    "ViDo": 10.3752947,
+    "KinhDo": 105.4386211,
+    "DiaChi": "119, Trần Hưng Đạo, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 91,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Sáu Huyền",
+    "ViDo": 10.3730099,
+    "KinhDo": 105.4368383,
+    "DiaChi": "181/4B, Võ Thị Sáu - Rạch Cái Sơn, Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 92,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Bảo Ngọc",
+    "ViDo": 10.3752566,
+    "KinhDo": 105.4388795,
+    "DiaChi": "117F, Trần Hưng Đạo, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 93,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Cát Lợi",
+    "ViDo": 10.3909915,
+    "KinhDo": 105.4186495,
+    "DiaChi": "23, Cường Để, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 94,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Số 9",
+    "ViDo": 10.3730233,
+    "KinhDo": 105.4372,
+    "DiaChi": "181/4, Võ Thị Sáu - Rạch Cái Sơn, Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 95,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ An Thi",
+    "ViDo": 10.3759346,
+    "KinhDo": 105.4384553,
+    "DiaChi": "260D, Trần Hưng Đạo, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 96,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Tiên Trang",
+    "ViDo": 10.3907519,
+    "KinhDo": 105.4214473,
+    "DiaChi": "53, Võ Trường Toản, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 97,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Danh Liễu",
+    "ViDo": 10.3907659,
+    "KinhDo": 105.4214141,
+    "DiaChi": "15, Võ Trường Toản, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 98,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Hương Giang",
+    "ViDo": 10.3726082,
+    "KinhDo": 105.4397407,
+    "DiaChi": "1892/9A, Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 99,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Linh Chi",
+    "ViDo": 10.3754995,
+    "KinhDo": 105.4382835,
+    "DiaChi": "576, Võ Thị Sáu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 100,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Khách sạn An Bình",
+    "ViDo": 10.3925838,
+    "KinhDo": 105.4220721,
+    "DiaChi": "1 - 2E0 Bis, Đinh Công Tráng, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 101,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Khách sạn Thủy Tiên",
+    "ViDo": 10.3807863,
+    "KinhDo": 105.4465867,
+    "DiaChi": "209 - 211, Lý Thái Tổ, Phường Mỹ Long, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 102,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Phúc Phát",
+    "ViDo": 10.3722618,
+    "KinhDo": 105.439537,
+    "DiaChi": "Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 103,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Gia Minh",
+    "ViDo": 10.3727192,
+    "KinhDo": 105.4387083,
+    "DiaChi": "182/1, Võ Thị Sáu - Rạch Cái Sơn, Khóm Đông Thịnh 8, Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 104,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Kim Ngân",
+    "ViDo": 10.3800633,
+    "KinhDo": 105.4458133,
+    "DiaChi": "165, Lý Thái Tổ, Phường Mỹ Long, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 105,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ 554",
+    "ViDo": 10.3754647,
+    "KinhDo": 105.4372131,
+    "DiaChi": "554, Võ Thị Sáu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 106,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ nữ 550",
+    "ViDo": 10.3754244,
+    "KinhDo": 105.4366808,
+    "DiaChi": "555, Võ Thị Sáu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 107,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Ngọc Bích",
+    "ViDo": 10.372365,
+    "KinhDo": 105.4389716,
+    "DiaChi": "182/7, Võ Thị Sáu - Rạch Cái Sơn, Khóm Đông Thịnh 8, Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 108,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Đông Quân",
+    "ViDo": 10.3961033,
+    "KinhDo": 105.414751,
+    "DiaChi": "55 - 56E, Sư Vạn Hạnh, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 109,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Chùa Phước Linh",
+    "ViDo": 10.39921,
+    "KinhDo": 105.4181442,
+    "DiaChi": "Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 110,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Hoàng Huy",
+    "ViDo": 10.3976995,
+    "KinhDo": 105.4209232,
+    "DiaChi": "Trần Hưng Đạo, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 111,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Khách sạn Ngọc Phượng",
+    "ViDo": 10.3966094,
+    "KinhDo": 105.4225107,
+    "DiaChi": "204, Nguyễn Trường Tộ, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 112,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Hải Vy",
+    "ViDo": 10.3935403,
+    "KinhDo": 105.4187888,
+    "DiaChi": "Nguyễn Trường Tộ, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 113,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Tài Xuân",
+    "ViDo": 10.3935383,
+    "KinhDo": 105.4187843,
+    "DiaChi": "110D, Phó Đức Chính, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 114,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Cô Vân",
+    "ViDo": 10.3902764,
+    "KinhDo": 105.4189534,
+    "DiaChi": "Nguyễn Lữ, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 115,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Cát Lợi",
+    "ViDo": 10.3902679,
+    "KinhDo": 105.4189351,
+    "DiaChi": "24, Cường Để, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 116,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Châu Sa",
+    "ViDo": 10.3963329,
+    "KinhDo": 105.4152164,
+    "DiaChi": "56, Triệu Thị Trinh, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 117,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Phương Anh",
+    "ViDo": 10.3953421,
+    "KinhDo": 105.415254,
+    "DiaChi": "170, Lý Công Uẩn, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 118,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Tuyền Ngọc",
+    "ViDo": 10.3797427,
+    "KinhDo": 105.4388898,
+    "DiaChi": "24/1, Trần Hưng Đạo, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 119,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Minh Anh",
+    "ViDo": 10.3806735,
+    "KinhDo": 105.4376611,
+    "DiaChi": "77/2, Bùi Văn Danh (Hẻm), Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 120,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Khách sạn Long Xuyên",
+    "ViDo": 10.3823844,
+    "KinhDo": 105.4402661,
+    "DiaChi": "19, Nguyễn Văn Cưng, Phường Mỹ Long, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 121,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Khách sạn Đông Xuyên",
+    "ViDo": 10.3823621,
+    "KinhDo": 105.4403176,
+    "DiaChi": "9A, Lương Văn Cù, Phường Mỹ Long, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 122,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Khách sạn Cửu Long",
+    "ViDo": 10.3824651,
+    "KinhDo": 105.4403663,
+    "DiaChi": "21, Nguyễn Văn Cưng, Phường Mỹ Long, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 123,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Khách sạn Thái Bình 2",
+    "ViDo": 10.3823213,
+    "KinhDo": 105.4405385,
+    "DiaChi": "4, Nguyễn Huệ A, Phường Mỹ Long, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 124,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Vân Anh",
+    "ViDo": 10.361803,
+    "KinhDo": 105.4342574,
+    "DiaChi": "321, Huỳnh Tấn Phát, Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 125,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Bảo Tâm",
+    "ViDo": 10.3617628,
+    "KinhDo": 105.4342298,
+    "DiaChi": "Huỳnh Tấn Phát, Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 126,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Ngọc Khả Tú",
+    "ViDo": 10.3595384,
+    "KinhDo": 105.4374165,
+    "DiaChi": "Ngô Thời Sỹ, Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 127,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Ngân Khánh",
+    "ViDo": 10.3674833,
+    "KinhDo": 105.4263285,
+    "DiaChi": "Khóm Đông Thịnh 7, Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 128,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Thảo Nguyên",
+    "ViDo": 10.3610883,
+    "KinhDo": 105.4363869,
+    "DiaChi": "Phạm Cự Lượng, Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 129,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Hoà Hiệp",
+    "ViDo": 10.3645633,
+    "KinhDo": 105.4446733,
+    "DiaChi": "32/9B, Lê Trân, Phường Mỹ Quí, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 130,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Út Hiên",
+    "ViDo": 10.370072,
+    "KinhDo": 105.437895,
+    "DiaChi": "Liên Tỉnh 9 - XC (KDC Xẻo Trôm), Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 131,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Gia Hân",
+    "ViDo": 10.3674145,
+    "KinhDo": 105.4268974,
+    "DiaChi": "36 - 37, L13 (KDC Tây đại học), Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 132,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Hướng Dương",
+    "ViDo": 10.3705627,
+    "KinhDo": 105.438061,
+    "DiaChi": "Khóm Đông Thịnh 5, Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 133,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Tư Tâm",
+    "ViDo": 10.370111,
+    "KinhDo": 105.4387641,
+    "DiaChi": "Lô 18B, Khóm Đông Thịnh 8, Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 134,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Kim Ngân",
+    "ViDo": 10.366795,
+    "KinhDo": 105.438779,
+    "DiaChi": "Rạch Xẻo Chanh, Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 135,
+    "MaLoai": "0000000001",
+    "TenDiaDiem": "Nhà trọ Hà My",
+    "ViDo": 10.366996,
+    "KinhDo": 105.437652,
+    "DiaChi": "180/7A, Rạch Xẻo Chanh, Khóm Đông Thịnh 8, Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 136,
+    "MaLoai": "0000000002",
+    "TenDiaDiem": "Bệnh viện Đa khoa Trung tâm An Giang",
+    "ViDo": 10.369739,
+    "KinhDo": 105.435855,
+    "DiaChi": "02, Lê Lợi, Phường Mỹ Bình, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 137,
+    "MaLoai": "0000000002",
+    "TenDiaDiem": "Bệnh viện Đa khoa Thành phố Long Xuyên",
+    "ViDo": 10.3745,
+    "KinhDo": 105.441008,
+    "DiaChi": "09, Hải Thượng Lãn Ông, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 138,
+    "MaLoai": "0000000002",
+    "TenDiaDiem": "Bệnh viện Đa khoa Hạnh Phúc",
+    "ViDo": 10.355348,
+    "KinhDo": 105.45825,
+    "DiaChi": "234, Trần Hưng Đạo, Phường Mỹ Thới, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 139,
+    "MaLoai": "0000000002",
+    "TenDiaDiem": "Bệnh viện Đa khoa Bình Dân",
+    "ViDo": 10.375226,
+    "KinhDo": 105.441754,
+    "DiaChi": "39, Trần Hưng Đạo, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 140,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán cơm Du",
+    "ViDo": 10.4116066,
+    "KinhDo": 105.4162049,
+    "DiaChi": "58A, Quốc Lộ 91, Khóm Bình Đức 3, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 141,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán cơm Minh Sang",
+    "ViDo": 10.411615,
+    "KinhDo": 105.4163016,
+    "DiaChi": "57A, Quốc Lộ 91, Khóm Bình Đức 3, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 142,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Mê Linh",
+    "ViDo": 10.4107533,
+    "KinhDo": 105.4169766,
+    "DiaChi": "Quốc Lộ 91, Khóm Bình Đức 3, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 143,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán cơm Kim Thanh",
+    "ViDo": 10.4081783,
+    "KinhDo": 105.419105,
+    "DiaChi": "1509A, Tổ 76, Quốc Lộ 91, Khóm Bình Đức 3, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 144,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Trúc Xanh 123",
+    "ViDo": 10.4071783,
+    "KinhDo": 105.4196733,
+    "DiaChi": "Quốc Lộ 91, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 145,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Thuý An",
+    "ViDo": 10.3752833,
+    "KinhDo": 105.4353716,
+    "DiaChi": "498, Võ Thị Sáu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 146,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán cơm Bình Dân",
+    "ViDo": 10.4052749,
+    "KinhDo": 105.41949,
+    "DiaChi": "1243B, Tổ 63, Quốc Lộ 91, Khóm Bình Đức 3, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 147,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Đan Vân",
+    "ViDo": 10.4050149,
+    "KinhDo": 105.4195583,
+    "DiaChi": "1242, Tổ 63, Quốc Lộ 91, Khóm Bình Đức 3, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 148,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán cơm Đức Chí",
+    "ViDo": 10.3752594,
+    "KinhDo": 105.4346234,
+    "DiaChi": "514C, Võ Thị Sáu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 149,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Mỹ Lan",
+    "ViDo": 10.377635,
+    "KinhDo": 105.4309933,
+    "DiaChi": "786, Hà Hoàng Hổ, Phường Đông Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 150,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Thảo",
+    "ViDo": 10.4027166,
+    "KinhDo": 105.4196816,
+    "DiaChi": "Quốc Lộ 91, Khóm Bình Đức 1, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 151,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán cơm Thu Thảo",
+    "ViDo": 10.4035466,
+    "KinhDo": 105.4196483,
+    "DiaChi": "1259/63, Quốc Lộ 91, Khóm Bình Đức 1, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 152,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Thái Phương",
+    "ViDo": 10.4037016,
+    "KinhDo": 105.4197416,
+    "DiaChi": "Quốc Lộ 91, Khóm Bình Đức 1, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 153,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Không tên",
+    "ViDo": 10.3753216,
+    "KinhDo": 105.4355633,
+    "DiaChi": "49/5, Võ Thị Sáu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 154,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Diễm Hằng",
+    "ViDo": 10.3753016,
+    "KinhDo": 105.4356266,
+    "DiaChi": "Võ Thị Sáu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 155,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Vân",
+    "ViDo": 10.3987994,
+    "KinhDo": 105.4244129,
+    "DiaChi": "Trần Hưng Đạo, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 156,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Xưa và Nay",
+    "ViDo": 10.4043416,
+    "KinhDo": 105.4198833,
+    "DiaChi": "Quốc Lộ 91, Khóm Bình Đức 3, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 157,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Thầy Đang",
+    "ViDo": 10.3755433,
+    "KinhDo": 105.4361899,
+    "DiaChi": "487, Võ Thị Sáu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 158,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Ngọc Dung",
+    "ViDo": 10.4089433,
+    "KinhDo": 105.4187366,
+    "DiaChi": "1493/75, Trần Hưng Đạo, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 159,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Sang Linh",
+    "ViDo": 10.3761916,
+    "KinhDo": 105.436165,
+    "DiaChi": "536B, Võ Thị Sáu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 160,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Tấn Sỹ",
+    "ViDo": 10.4094483,
+    "KinhDo": 105.4183916,
+    "DiaChi": "1497/75, Trần Hưng Đạo, Khóm Bình Đức 3, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 161,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán chay Phước Lợi",
+    "ViDo": 10.3764449,
+    "KinhDo": 105.4362333,
+    "DiaChi": "475, Võ Thị Sáu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 162,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán cơm Bình Dân",
+    "ViDo": 10.4127716,
+    "KinhDo": 105.4156083,
+    "DiaChi": "803/13, Trần Hưng Đạo, Khóm Bình Đức 3, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 163,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán cơm gà",
+    "ViDo": 10.376755,
+    "KinhDo": 105.4364016,
+    "DiaChi": "Võ Thị Sáu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 164,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Lắm",
+    "ViDo": 10.4127316,
+    "KinhDo": 105.4153833,
+    "DiaChi": "691/46, Trần Hưng Đạo, Khóm Bình Đức 3, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 165,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Kim Đô",
+    "ViDo": 10.4127416,
+    "KinhDo": 105.4156066,
+    "DiaChi": "6591/46, Trần Hưng Đạo, Khóm Bình Đức 3, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 166,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Thùy Dương",
+    "ViDo": 10.4142466,
+    "KinhDo": 105.4143816,
+    "DiaChi": "461/A, Trần Hưng Đạo, Khóm Bình Đức 4, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 167,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Minh Nhí",
+    "ViDo": 10.415195,
+    "KinhDo": 105.4134733,
+    "DiaChi": "449B/43, Trần Hưng Đạo, Khóm Bình Đức 4, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 168,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Mai",
+    "ViDo": 10.41609,
+    "KinhDo": 105.41247,
+    "DiaChi": "529/41, Quốc Lộ 91, Khóm Bình Đức 4, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 169,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Tịnh Thất Trúc Lâm",
+    "ViDo": 10.3763733,
+    "KinhDo": 105.437055,
+    "DiaChi": "Võ Thị Sáu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 170,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Xuân Hạ",
+    "ViDo": 10.4150683,
+    "KinhDo": 105.4133466,
+    "DiaChi": "679/43, Trần Hưng Đạo, Khóm Bình Đức 4, Phường Bình Đức, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 171,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Thuỷ",
+    "ViDo": 10.376835,
+    "KinhDo": 105.4362666,
+    "DiaChi": "461D, Võ Thị Sáu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 172,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Hương Vi",
+    "ViDo": 10.3774883,
+    "KinhDo": 105.4369816,
+    "DiaChi": "587, Võ Thị Sáu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 173,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Chín Kiểm",
+    "ViDo": 10.3765491,
+    "KinhDo": 105.4327479,
+    "DiaChi": "710, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 174,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Tường Vân",
+    "ViDo": 10.3888433,
+    "KinhDo": 105.4340933,
+    "DiaChi": "54A, Lý Thường Kiệt, Phường Mỹ Bình, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 175,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Cây Bàng",
+    "ViDo": 10.38909,
+    "KinhDo": 105.4344966,
+    "DiaChi": "7/5, Lý Thường Kiệt, Phường Mỹ Bình, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 176,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Thành Được",
+    "ViDo": 10.3432723,
+    "KinhDo": 105.4699058,
+    "DiaChi": "Quốc Lộ 91, Phường Mỹ Thới, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 177,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán cơm Sơn",
+    "ViDo": 10.3781733,
+    "KinhDo": 105.4279733,
+    "DiaChi": "536/14, Hà Hoàng Hổ, Phường Đông Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 178,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán cơm Như Thảo",
+    "ViDo": 10.3782285,
+    "KinhDo": 105.4278027,
+    "DiaChi": "520/14, Hà Hoàng Hổ, Phường Đông Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 179,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Phát",
+    "ViDo": 10.386765,
+    "KinhDo": 105.4340933,
+    "DiaChi": "Trần Hưng Đạo, Phường Mỹ Bình, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 180,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán chay",
+    "ViDo": 10.3448762,
+    "KinhDo": 105.4680947,
+    "DiaChi": "Quốc Lộ 91, Phường Mỹ Thới, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 181,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán bánh canh giò heo",
+    "ViDo": 10.3766475,
+    "KinhDo": 105.4402261,
+    "DiaChi": "169, Hẻm 5, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 182,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán cơm Tý Đen",
+    "ViDo": 10.37777,
+    "KinhDo": 105.4306416,
+    "DiaChi": "Hà Hoàng Hổ, Phường Đông Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 183,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán cơm Bé Tư",
+    "ViDo": 10.3776474,
+    "KinhDo": 105.4307147,
+    "DiaChi": "806, Hà Hoàng Hổ, Phường Đông Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 184,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán chay Tịnh Duyên",
+    "ViDo": 10.37779,
+    "KinhDo": 105.4310833,
+    "DiaChi": "808, Hà Hoàng Hổ, Phường Đông Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 185,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Bảo Ngọc",
+    "ViDo": 10.3748007,
+    "KinhDo": 105.4395843,
+    "DiaChi": "116, Hải Thượng Lãn Ông, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 186,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Cô Tám",
+    "ViDo": 10.3745808,
+    "KinhDo": 105.4397072,
+    "DiaChi": "115A, Hải Thượng Lãn Ông, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 187,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán bún cua (Cây Trứng Cá)",
+    "ViDo": 10.3750214,
+    "KinhDo": 105.4393704,
+    "DiaChi": "Hải Thượng Lãn Ông, Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 188,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán chay Cô Ba",
+    "ViDo": 10.3754132,
+    "KinhDo": 105.441092,
+    "DiaChi": "55, Hải Thượng Lãn Ông, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 189,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Thu Hằng",
+    "ViDo": 10.3835548,
+    "KinhDo": 105.4364012,
+    "DiaChi": "13, Lê Văn Nhung, Phường Mỹ Bình, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 190,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Thiên Phương",
+    "ViDo": 10.3834845,
+    "KinhDo": 105.4363218,
+    "DiaChi": "14, Lê Văn Nhung, Phường Mỹ Bình, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 191,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Hồng Diễm",
+    "ViDo": 10.3754385,
+    "KinhDo": 105.4364967,
+    "DiaChi": "548, Võ Thị Sáu, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 192,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Chị Nga",
+    "ViDo": 10.3758521,
+    "KinhDo": 105.4382272,
+    "DiaChi": "583, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 193,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Ngân Tấn",
+    "ViDo": 10.376315,
+    "KinhDo": 105.43885,
+    "DiaChi": "223A, Trần Hưng Đạo, Khóm Đông An 5, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 194,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán bún Cô Ba",
+    "ViDo": 10.3763448,
+    "KinhDo": 105.4393727,
+    "DiaChi": "276P, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 195,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Bảo Minh",
+    "ViDo": 10.3732516,
+    "KinhDo": 105.4366583,
+    "DiaChi": "181/3, Võ Thị Sáu - Rạch Cái Sơn, Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 196,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Thanh Hùng",
+    "ViDo": 10.3773066,
+    "KinhDo": 105.4386783,
+    "DiaChi": "Trần Hưng Đạo, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 197,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Bếp cơm từ thiện",
+    "ViDo": 10.3821022,
+    "KinhDo": 105.4444813,
+    "DiaChi": "Số 1 - Lô 1, Nguyễn Trãi, Phường Mỹ Long, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 198,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Cơm phần Sinh Viên",
+    "ViDo": 10.3753719,
+    "KinhDo": 105.4386425,
+    "DiaChi": "Trần Hưng Đạo, Phường Mỹ Xuyên, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 199,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Trần Văn Nhanh (Kế nhà trọ Hồng Nhung)",
+    "ViDo": 10.373097,
+    "KinhDo": 105.438335,
+    "DiaChi": "185/5C, Võ Thị Sáu - Rạch Cái Sơn, Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 200,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán cơm Gia Đình Mình",
+    "ViDo": 10.3755285,
+    "KinhDo": 105.4372846,
+    "DiaChi": "555, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 201,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Ngọc Hương",
+    "ViDo": 10.380235,
+    "KinhDo": 105.44591,
+    "DiaChi": "173, Lý Thái Tổ, Phường Mỹ Long, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 202,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán chay Huỳnh Hương",
+    "ViDo": 10.3811999,
+    "KinhDo": 105.4435711,
+    "DiaChi": "56, Thoại Ngọc Hầu, Phường Mỹ Long, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 203,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Châu Phát",
+    "ViDo": 10.3939538,
+    "KinhDo": 105.4224873,
+    "DiaChi": "Thành Thái, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 204,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán sân vườn Happy",
+    "ViDo": 10.3929823,
+    "KinhDo": 105.4200197,
+    "DiaChi": "Hàm Nghi, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 205,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Hàng Phát",
+    "ViDo": 10.3785968,
+    "KinhDo": 105.4416668,
+    "DiaChi": "327/2, Trần Nhật Duật, Phường Mỹ Long, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 206,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Bưu Lộc",
+    "ViDo": 10.3795316,
+    "KinhDo": 105.44228,
+    "DiaChi": "211/1, Đặng Dung, Phường Mỹ Long, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 207,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán chay An Lạc",
+    "ViDo": 10.3993817,
+    "KinhDo": 105.4205824,
+    "DiaChi": "Trần Hưng Đạo, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 208,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán chay Thiện Nhân",
+    "ViDo": 10.3985539,
+    "KinhDo": 105.4213581,
+    "DiaChi": "267B/14, Trần Hưng Đạo, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 209,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Tiệm cơm Hồng Phát",
+    "ViDo": 10.3801915,
+    "KinhDo": 105.4420316,
+    "DiaChi": "242/4, Lương Văn Cù, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 210,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Hoa Sứ",
+    "ViDo": 10.3946139,
+    "KinhDo": 105.4167843,
+    "DiaChi": "Lạc Long Quân (Đối diện nhà hàng Khoa Trí), Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 211,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Bánh canh Phương Ngọc",
+    "ViDo": 10.3915987,
+    "KinhDo": 105.4224388,
+    "DiaChi": "0 - 1 - 2 - 3, Thành Thái, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 212,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Ngọc Thu",
+    "ViDo": 10.3963811,
+    "KinhDo": 105.4221897,
+    "DiaChi": "211/3, Nguyễn Trường Tộ, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 213,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Cô Thu",
+    "ViDo": 10.3981304,
+    "KinhDo": 105.4150199,
+    "DiaChi": "74, Ỷ Lan, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 214,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Nhẫn",
+    "ViDo": 10.3955876,
+    "KinhDo": 105.4213549,
+    "DiaChi": "Nguyễn Trường Tộ, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 215,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Lâm Tùng (Châu Ký)",
+    "ViDo": 10.3910438,
+    "KinhDo": 105.4215997,
+    "DiaChi": "Đốc Binh Kiều, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 216,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Cà phê Thảo Nhi",
+    "ViDo": 10.39647,
+    "KinhDo": 105.4143475,
+    "DiaChi": "Lê Hoàng - Triệu Thị Trinh, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 217,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Tài Lộc",
+    "ViDo": 10.3954384,
+    "KinhDo": 105.4210865,
+    "DiaChi": "240J, Nguyễn Trường Tộ, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 218,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn 47",
+    "ViDo": 10.3935654,
+    "KinhDo": 105.4176589,
+    "DiaChi": "Lý Bôn, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 219,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Cơm tấm Bà Năm",
+    "ViDo": 10.3945346,
+    "KinhDo": 105.4216114,
+    "DiaChi": "460, Đề Thám, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 220,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Thế Minh Mì Gia",
+    "ViDo": 10.3941593,
+    "KinhDo": 105.4221109,
+    "DiaChi": "Đề Thám, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 221,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán cơm Thảo",
+    "ViDo": 10.3922064,
+    "KinhDo": 105.4186534,
+    "DiaChi": "Lô 3G1, Hàm Nghi, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 222,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Châu Phát",
+    "ViDo": 10.3938839,
+    "KinhDo": 105.4224596,
+    "DiaChi": "Thành Thái, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 223,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Khoa Trí",
+    "ViDo": 10.3947702,
+    "KinhDo": 105.4166304,
+    "DiaChi": "Lạc Long Quân, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 224,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Bảo Huy",
+    "ViDo": 10.396094,
+    "KinhDo": 105.4219874,
+    "DiaChi": "20C, Nguyễn Trường Tộ, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 225,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Huy Hoàng",
+    "ViDo": 10.3960841,
+    "KinhDo": 105.4218128,
+    "DiaChi": "Nguyễn Trường Tộ, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 226,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán cơm tấm",
+    "ViDo": 10.3932955,
+    "KinhDo": 105.4224933,
+    "DiaChi": "Thành Thái, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 227,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Bi Bi",
+    "ViDo": 10.3920086,
+    "KinhDo": 105.4196812,
+    "DiaChi": "2, Nguyễn Nhạc, Phường Bình Khánh, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 228,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Nguyễn Thị Đưa",
+    "ViDo": 10.3788225,
+    "KinhDo": 105.4419452,
+    "DiaChi": "327/3, Hùng Vương, Phường Mỹ Long, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 229,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán phở Bắc, bún bò Tràng An",
+    "ViDo": 10.3822273,
+    "KinhDo": 105.444099,
+    "DiaChi": "32C, Bạch Đằng, Phường Mỹ Long, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 230,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Cơm tấm lá sen",
+    "ViDo": 10.3801063,
+    "KinhDo": 105.4442666,
+    "DiaChi": "169/5, Thoại Ngọc Hầu, Phường Mỹ Long, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 231,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Loan",
+    "ViDo": 10.3841173,
+    "KinhDo": 105.4413248,
+    "DiaChi": "21, Phan Đình Phùng, Phường Mỹ Long, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 232,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán chay Mẫn Đạt",
+    "ViDo": 10.3649562,
+    "KinhDo": 105.4402954,
+    "DiaChi": "Lô 5 - Lô 6, Trần Phú, Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 233,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Diễm",
+    "ViDo": 10.3645699,
+    "KinhDo": 105.4449366,
+    "DiaChi": "Phạm Cự Lượng, Phường Mỹ Quí, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 234,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Út Mập",
+    "ViDo": 10.364565,
+    "KinhDo": 105.4449983,
+    "DiaChi": "349/41, Phạm Cự Lượng, Phường Mỹ Quí, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 235,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Minh Duy",
+    "ViDo": 10.365675,
+    "KinhDo": 105.4466366,
+    "DiaChi": "9A, Phạm Cự Lượng, Phường Mỹ Quí, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 236,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Cơm tấm thịt nướng",
+    "ViDo": 10.3642988,
+    "KinhDo": 105.4441257,
+    "DiaChi": "Số 7, Phạm Cự Lượng, Phường Mỹ Phước, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 237,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Thành Thái",
+    "ViDo": 10.3666983,
+    "KinhDo": 105.4481033,
+    "DiaChi": "Phạm Cự Lượng, Phường Mỹ Quí, Thành phố Long Xuyên"
+  },
+  {
+    "MaDiaDiem": 238,
+    "MaLoai": "0000000003",
+    "TenDiaDiem": "Quán ăn Tấn Phát",
+    "ViDo": 10.36458,
+    "KinhDo": 105.44464,
+    "DiaChi": "Phạm Cự Lượng, Phường Mỹ Quí, Thành phố Long Xuyên"
+  }
+]

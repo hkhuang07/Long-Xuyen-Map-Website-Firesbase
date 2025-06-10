@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet" />
+	<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+	<title>Loại địa điểm - Bản đồ địa điểm An Giang</title>
+</head>
+
+<body>
+	<div class="container">
+		<div id="navbar"></div>
+		<div class="card mt-3">
+			<div class="card-header">Loại địa điểm</div>
+			<div class="card-body">
+				<p><a href="loaidiadiem_them.html" class="btn btn-success"><i class="bi bi-plus-lg"></i> Thêm mới</a></p>
+				<table class="table table-bordered table-hover table-sm mb-0">
+					<thead>
+						<tr>
+							<th width="10%">Mã loại</th>
+							<th width="50%">Tên loại</th>
+							<th width="30%">Biểu tượng trên bản đồ</th>
+							<th width="5%">Sửa</th>
+							<th width="5%">Xóa</th>
+						</tr>
+					</thead>
+					<tbody id="HienThi"></tbody>
+				</table>
+			</div>
+		</div>
+		<div id="footer"></div>
+	</div>
+	<script>
+		$(function(){
+			$('#navbar').load('inc/navbar.html');
+			$('#footer').load('inc/footer.html');
+		});
+	</script>
+	<script type="module" src="inc/config.js"></script>
+	<script type="module">
+		import { getFirestore, collection, getDocs } from 'https://www.gstatic.com/firebasejs/11.3.1/firebase-firestore.js';
+		const db = getFirestore();
+		const querySnapshot = await getDocs(collection(db, 'loaidiadiem'));
+		var output = '';
+		querySnapshot.forEach((doc) => {
+			output += '<tr>';
+				output += '<td class="align-middle">' + doc.data().MaLoai + '</td>';
+				output += '<td class="align-middle">' + doc.data().TenLoai + '</td>';
+				output += '<td class="align-middle text-center"><img src="images/' + doc.data().HinhAnhBanDo + '"></td>';
+				output += '<td class="align-middle text-center"><a href="loaidiadiem_sua.html?id=' + doc.id + '"><i class="bi bi-pencil-square"></i></a></td>';
+				output += '<td class="align-middle text-center"><a onclick="return confirm(\'Bạn có muốn xóa loại địa điểm ' + doc.data().TenLoai + ' không?\')" href="loaidiadiem_xoa.html?id=' + doc.id + '"><i class="bi bi-trash text-danger"></i></a></td>';
+			output += '</tr>';
+		});
+		$('#HienThi').html(output);
+	</script>
+</body>
+
+</html>

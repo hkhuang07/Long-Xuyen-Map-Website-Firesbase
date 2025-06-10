@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet" />
+	<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+	<title>Sửa loại địa điểm - Bản đồ địa điểm An Giang</title>
+</head>
+
+<body>
+	<div class="container">
+		<div id="navbar"></div>
+		<div class="card mt-3">
+			<div class="card-header">Sửa loại địa điểm</div>
+			<div class="card-body">
+				<form action="loaidiadiem_sua_xuly.html" method="post" class="needs-validation" novalidate>
+					<input type="text" id="ID" name="ID" hidden />
+					<div class="mb-3">
+						<label for="MaLoai" class="form-label">Mã loại</label>
+						<input type="text" class="form-control" id="MaLoai" name="MaLoai" required />
+						<div class="invalid-feedback">Mã loại không được bỏ trống.</div>
+					</div>
+					<div class="mb-3">
+						<label for="TenLoai" class="form-label">Tên loại</label>
+						<input type="text" class="form-control" id="TenLoai" name="TenLoai" required />
+						<div class="invalid-feedback">Tên loại không được bỏ trống.</div>
+					</div>
+					<div class="mb-3">
+						<label for="HinhAnhBanDo" class="form-label">Hình ảnh bản đồ</label>
+						<input type="text" class="form-control" id="HinhAnhBanDo" name="HinhAnhBanDo" required />
+						<div class="invalid-feedback">Hình ảnh bản đồ không được bỏ trống.</div>
+					</div>
+					
+					<button type="submit" class="btn btn-primary"><i class="bi bi-floppy"></i> Cập nhật</button>
+				</form>
+			</div>
+		</div>
+		<div id="footer"></div>
+	</div>
+	<script type="module" src="inc/config.js"></script>
+	<script type="module">
+		import { getFirestore, doc, getDoc } from 'https://www.gstatic.com/firebasejs/11.3.1/firebase-firestore.js';
+		const db = getFirestore();
+		
+		const urlParams = new URLSearchParams(window.location.search);
+		const docID = urlParams.get('id');
+		
+		const docRef = doc(db, 'loaidiadiem', docID);
+		const docSnap = await getDoc(docRef);
+		if (docSnap.exists()) {
+			$('#ID').val(docSnap.id);
+			$('#MaLoai').val(docSnap.data().MaLoai);
+			$('#TenLoai').val(docSnap.data().TenLoai);
+			$('#HinhAnhBanDo').val(docSnap.data().HinhAnhBanDo);
+		} else {
+			console.log('Không tồn tài dữ liệu!');
+		}
+	</script>
+	<script>
+		(function() {
+			'use strict';
+			$('#navbar').load('inc/navbar.html');
+			$('#footer').load('inc/footer.html');
+			const forms = document.querySelectorAll('.needs-validation');
+			Array.from(forms).forEach(form => {
+				form.addEventListener('submit', event => {
+					if (!form.checkValidity()) {
+						event.preventDefault();
+						event.stopPropagation();
+					}
+					form.classList.add('was-validated');
+					
+					var docID = $('#ID').val();
+					var maLoai = $('#MaLoai').val();
+					var tenLoai = $('#TenLoai').val();
+					var hinhAnhBanDo = $('#HinhAnhBanDo').val();
+					localStorage.setItem('docID', docID);
+					localStorage.setItem('maLoai', maLoai);
+					localStorage.setItem('tenLoai', tenLoai);
+					localStorage.setItem('hinhAnhBanDo', hinhAnhBanDo);
+				}, false);
+			});
+		})();
+	</script>
+</body>
+
+</html>

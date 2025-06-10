@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet" />
+	<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+	<title>Địa điểm - Bản đồ địa điểm An Giang</title>
+</head>
+
+<body>
+	<div class="container">
+		<div id="navbar"></div>
+		<div class="card mt-3">
+			<div class="card-header">Địa điểm</div>
+			<div class="card-body">
+				<p>
+					<a href="diadiem_them.html" class="btn btn-success"><i class="bi bi-plus-lg"></i> Thêm mới</a>
+					<a href="diadiem_nhap.html" class="btn btn-warning"><i class="bi bi-cloud-arrow-up"></i> Nhập địa điểm mẫu</a>
+				</p>
+				<table class="table table-bordered table-hover table-sm mb-0">
+					<thead>
+						<tr>
+							<th width="5%">#</th>
+							<th width="15%">Loại</th>
+							<th width="55%">Thông tin địa điểm</th>
+							<th width="15%">Tọa độ</th>
+							<th width="5%">Sửa</th>
+							<th width="5%">Xóa</th>
+						</tr>
+					</thead>
+					<tbody id="HienThi"></tbody>
+				</table>
+			</div>
+		</div>
+		<div id="footer"></div>
+	</div>
+	<script>
+		$(function(){
+			$('#navbar').load('inc/navbar.html');
+			$('#footer').load('inc/footer.html');
+		});
+	</script>
+	<script type="module" src="inc/config.js"></script>
+	<script type="module">
+		import { getFirestore, collection, getDocs, getDoc } from 'https://www.gstatic.com/firebasejs/11.3.1/firebase-firestore.js';
+		const db = getFirestore();
+		
+		async function getDanhSachDiaDiem() {
+			const querySnapshot = await getDocs(collection(db, 'diadiem'));
+			const promises = querySnapshot.docs.map(doc => getRefData(doc));
+			return Promise.all(promises)
+		}
+		
+		async function getRefData(doc) {
+			var diaDiem = doc.data();
+			diaDiem.id = doc.id;
+			var loaiDiaDiem = await getDoc(diaDiem.MaLoai);
+			diaDiem.Loai = { ...loaiDiaDiem.data() };
+			return diaDiem;
+		}
+		
+		await getDanhSachDiaDiem().then(results => {
+			var output = '';
+			results.forEach((d) => {
+				output += '<tr>';
+					output += '<td class="align-middle">' + d.MaDiaDiem + '</td>';
+					output += '<td class="align-middle">' + d.Loai.TenLoai + '</td>';
+					output += '<td class="align-middle"><b>' + d.TenDiaDiem + '</b><br>Địa chỉ: ' + d.DiaChi + '</td>';
+					output += '<td class="align-middle font-monospace">[' + d.ToaDo.latitude + ']<br>[' + d.ToaDo.longitude + ']</td>';
+					output += '<td class="align-middle text-center"><a href="diadiem_sua.html?id=' + d.id + '"><i class="bi bi-pencil-square"></i></a></td>';
+					output += '<td class="align-middle text-center"><a onclick="return confirm(\'Bạn có muốn xóa địa điểm ' + d.TenDiaDiem + ' không?\')" href="diadiem_xoa.html?id=' + d.id + '"><i class="bi bi-trash text-danger"></i></a></td>';
+				output += '</tr>';
+			});
+			$('#HienThi').html(output);
+		});
+	</script>
+</body>
+
+</html>
