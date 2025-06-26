@@ -3,7 +3,7 @@ import { getAnalytics } from "https://www.gstatic.com/firebasejs/11.3.1/firebase
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDhTy2iASSLCAdo9ogwNCSDsZHPLvN86zA",
+  apiKey: "<MY-API-KEY>",
   authDomain: "angiang-map.firebaseapp.com",
   projectId: "angiang-map",
   storageBucket: "angiang-map.firebasestorage.app",
