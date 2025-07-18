@@ -14,6 +14,25 @@ Experience the map live!
 [https://angiang-map.web.app/](https://angiang-map.web.app/)
 
 ---
+## Visual Setup Guide
+
+### Home Page
+<p align="center">
+  <img src="demo/home01.jpg" alt="Home Page Long Xuyen Map" width="900">
+  </br>
+    <em>Home Page Long Xuyen Map</em>
+</p>
+<p align="center">
+  <img src="demo/location.jpg" alt="Location Manage" width="900">
+  </br>
+    <em>Location Manage</em>
+</p>
+<p align="center">
+  <img src="demo/locationtype.jpg" alt="Location Type Manage" width="900">
+  </br>
+    <em>Location Type Manage</em>
+</p>
+---
 
 ## Key Features
 
