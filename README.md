@@ -8,9 +8,8 @@ The **Long Xuyen Map Website** is a dynamic and interactive web application desi
 
 ---
 
-## Live Demo
+## Link Deployment 
 
-Experience the map live!
 [https://angiang-map.web.app/](https://angiang-map.web.app/)
 
 ---
